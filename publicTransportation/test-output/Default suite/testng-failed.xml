@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="publicTransportation.publicTransportation.SearchPageTest">
+        <methods>
+          <include name="SearchByCity"/>
+          <include name="getHTTPResponseCodeOfURL"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- publicTransportation.publicTransportation.SearchPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
