@@ -12,7 +12,7 @@ import io.restassured.RestAssured;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class SearchPageTest extends BaseTest {
+public class SearchPageTest {
 	
 
 WebDriver driver ;
